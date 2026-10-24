@@ -75,7 +75,7 @@ export const en: Record<string, string> = {
 
   // Privacy Statement
   'privacy.statement': 'All your data stays on this device. No cookies, no trackers, no external server.',
-  'privacy.disclaimer': 'Independent study platform. Not affiliated with or endorsed by WBCHSE.',
+  'privacy.disclaimer': 'Independent study platform designed by , Ashis Patra.',
 
   // Practice Screen (Stub Shell)
   'practice.title': 'Targeted Practice',
