@@ -76,7 +76,7 @@ export const bn: Record<string, string> = {
 
   // Privacy Statement
   'privacy.statement': 'তোমার সব তথ্য এই ডিভাইসেই থাকে। কোনো কুকিজ, ট্র্যাকার বা বহিরাগত সার্ভার নেই।',
-  'privacy.disclaimer': 'স্বাধীন অধ্যয়নের হাতিয়ার। WBCHSE Councils আনুষ্ঠানিক পণ্য নয়।',
+  'privacy.disclaimer': 'স্বাধীন অধ্যয়নের হাতিয়া , প্রতিস্থাপক : আশিষ পাএ।',
 
   // Practice Screen (Stub Shell)
   'practice.title': 'বিষয়ভিত্তিক অনুশীলন',
